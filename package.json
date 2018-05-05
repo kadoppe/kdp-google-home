@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kadoppe/kdp-google-home/issues"
   },
-  "homepage": "https://github.com/kadoppe/kdp-google-home#readme"
+  "homepage": "https://github.com/kadoppe/kdp-google-home#readme",
+  "dependencies": {
+    "google-home-notifier": "1.2.0"
+  }
 }
